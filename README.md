@@ -156,6 +156,6 @@ releasing work publicly on the Web.
 
 # Excluded
 - Excluded languages:
-- Excluded Repositories: lrenti/github-stats, lrenti/webfldc, CaliNetX/CaliNetX
+- Excluded Repositories: LRenTi/github-stats,LRenTi/webfldc,CaliNetX/CaliNetX
 
 
